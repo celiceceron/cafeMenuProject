@@ -6,7 +6,9 @@ h1, h2, p {
     background-color:burlywood;
   }
 
-  div{
-    width: 300px;
+  .menu{
+    width: 80%;
     background-color:burlywood;
+    margin-left: auto;
+    margin-right: auto;
   }
